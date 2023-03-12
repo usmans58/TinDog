@@ -1,0 +1,12 @@
+
+#title {
+    background-color: #ff4c68;
+}
+/* change the font of h1 to monsterat with font weight 900 size 3rem and line height =1.5rem */
+h1 {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 900 !important; 
+    font-size: 3rem !important;
+    line-height: 1.5 !important;
+}
+
