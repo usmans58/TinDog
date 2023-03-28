@@ -70,10 +70,13 @@ p{
     color: #ff4c68;
 }
 #testimonials{
-    padding: 7% 15%;
+    
     background-color: #ef8172;
     color: #fff;
     text-align: center;
+}
+.carousel-item{
+    padding: 7% 15%;
 }
 h2{
     font-family: "Montserrat";
@@ -82,7 +85,16 @@ h2{
     line-height: 1.5 !important;
 }
 .testimonial_image{
-    width: 20%;
-    border-radius: 50%;
-    margin-bottom: 1rem;
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px 0 0 0;
+}
+#press{
+    padding: 7% 15%;
+    background-color: #ef8172;
+    text-align: center;
+}
+.press-logo{
+    width: 15%;
+    margin: 0 20px 50px;
 }
